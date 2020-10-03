@@ -2730,7 +2730,7 @@ mark.search-keyword {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #291dde;
+  background: #4affc8;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
